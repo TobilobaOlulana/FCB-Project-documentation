@@ -20,3 +20,4 @@ This data Analysis aims to generate insight into the sales performance on the e-
 - Results
 - Conclusion
 ###
+![](IMG_20240528_131702_770.jpg)

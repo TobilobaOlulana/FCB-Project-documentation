@@ -7,8 +7,8 @@ This data Analysis aims to generate insight into the sales performance on the e-
 
 ## Tools Used
 
-- Microsoft Excel download here www.microsoft.com
-- Microsoft PowerBi
+- Microsoft Excel for data cleaning [Download here](https://microsoft.com)
+- Microsoft **PowerBi**
 - Python
 - SQL
 
